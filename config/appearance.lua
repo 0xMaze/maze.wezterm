@@ -29,7 +29,7 @@ return {
   window_padding = {
     left = 5,
     right = 5,
-    top = 30,
+    top = 45,
     bottom = 0,
   },
   adjust_window_size_when_changing_font_size = false,
